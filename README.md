@@ -23,7 +23,7 @@ I am a cybersecurity student at NIIT Port Harcourt, passionate about offensive a
 | OSINT Investigation | Conducted an OSINT investigation on a target organisation | https://github.com/Ihally30/osint-project |
 | Threat Hunting | | | 
 | Social Engineering | | | 
-| Vulnerability Assessment | | | 
+| Vulnerability Assessment | A vulnerability assessment project demonstrating asset discovery, vulnerability identification, risk analysis, and remediation recommendations  | https://github.com/Ihally30/vulnerability-assessment-project | 
 | SOC Analysis | | | 
 
 ## SKIKLS
