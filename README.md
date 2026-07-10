@@ -7,4 +7,64 @@ I am a cybersecurity student at NIIT Port Harcourt, passionate about offensive a
 - Malware Analysis
 - Digital Forensics
 - OSINT
-- Threat Hunting 
+- Threat Hunting
+- Social Engineering
+- Vulnerability Assessment
+- SOC Analysis 
+
+## PROJECTS
+
+| Project | Description | Repository |
+| ------- | ----------- | ---------- |
+| Penetration Testing | | |
+| Log Analysis | Analysed IIS ans Windows Event Logs to identify attacks | Coming soon |
+| Malware Analysis | | |
+| Digital Forensics | | |
+| OSINT Investigation | Conducted an OSINT investigation on a target organisation | Coming soon |
+| Threat Hunting | | | 
+| Social Engineering | | | 
+| Vulnerability Assessment | | | 
+| SOC Analysis | | | 
+
+## SKIKLS
+
+### Operating Systems 
+
+- Windows
+- Linux
+
+### NETWORKING 
+
+- TCP/IP
+- DNS
+- HTTP
+- FTP
+- SSH
+
+### CYBERSECURITY TOOLS
+
+- Nmap
+- Wireshark
+- Burp Suite
+- Splunk
+- Metasploit
+- Git
+- GitHub
+
+## CERTIFICATIONS
+
+- ISC2 CC
+- CompTIA Security+ (In Progress)
+
+## EDUCATION 
+
+- NIIT Port Harcourt: Cybersecurity Programme
+- Bonny Vocational Centre: Level 3 Diploma in Mechanical Maintenance, Installation and Commissioning
+- Bonny Vocational Centre: Food Safely Level 2
+- Federal University of Technology Owerri: Metallurgical and Materials Engineering 
+
+## CONTACT 
+
+- Email: hallidayeldred@gmail.com
+- LinkedIn: https://linkedIn.com//in/EldredOmusoHalliday
+- Github: https://github.com/ihally30 
