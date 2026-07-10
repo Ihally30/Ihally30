@@ -65,6 +65,7 @@ I am a cybersecurity student at NIIT Port Harcourt, passionate about offensive a
 
 ## CONTACT 
 
+- Phone Number: 08168328922
 - Email: hallidayeldred@gmail.com
 - LinkedIn: https://linkedIn.com//in/EldredOmusoHalliday
 - Github: https://github.com/ihally30 
