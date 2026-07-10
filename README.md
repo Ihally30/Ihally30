@@ -19,7 +19,7 @@ I am a cybersecurity student at NIIT Port Harcourt, passionate about offensive a
 | Penetration Testing | | |
 | Log Analysis | A practical log analysis project | https://github.com/Ihally30/log-analysis |
 | Malware Analysis | A practical malware analysis project demonstrating static and dynamic analysis techniques | https://github.com/Ihally30/malware-analysis-project |
-| Digital Forensics | | |
+| Digital Forensics | A digital forensics project demonstrating evidence acquisition, preservation, and analysis | https://github.com/Ihally30/digital-forensics-project |
 | OSINT Investigation | Conducted an OSINT investigation on a target organisation | https://github.com/Ihally30/osint-project |
 | Threat Hunting | | | 
 | Social Engineering | | | 
